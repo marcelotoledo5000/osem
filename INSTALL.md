@@ -28,7 +28,7 @@ You can find the latest OSEM releases on our [release page](https://github.com/o
 
 The easiest way to deploy OSEM is to use one of the many platform as a service providers that support ruby on rails. We have prepared OSEM to be used with [heroku](https://heroku.com). So if you have an account there, you can deploy OSEM by pressing this button:
 
-<a href="https://heroku.com/deploy?template=https://github.com/openSUSE/osem/tree/v1.0">
+<a href="https://heroku.com/deploy?template=https://github.com/marcelotoledo5000/osem/tree/master">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 
