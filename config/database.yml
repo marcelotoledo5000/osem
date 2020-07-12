@@ -5,7 +5,6 @@
   end
 %>
 
-
 default: &default
   adapter: <%= ENV['OSEM_DB_ADAPTER'] || 'postgresql' %>
   encoding: <%= encoding %>
