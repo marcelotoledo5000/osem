@@ -42,3 +42,4 @@ osem_development
 osem_test
 *.swp
 .tool-versions
+config/cloudinary.yml
